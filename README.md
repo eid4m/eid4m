@@ -3,12 +3,12 @@
 
 I am 17 years old, I am currently studying Systems Engineering and Computer Science, I like the development of desktop and web applications, I like creation, innovation and modernism.
 
-Habilidades: C# / Python / HTML / CSS
+Skills: C# / Python / HTML / CSS
 
-- 🔭 Estoy trabajando en In my applications that I develop over time. 
-- 🌱 Estoy aprendiendo The C++ language 
-- 👯 Quiero colaborar con With developers of my software environment in this way to acquire knowledge. 
-- 📫 Cómo contactarme: adamnolasco21@gmail.com or adamnolasco21@hotmail.com
+- 🔭 Im woking in my applications that I develop over time. 
+- 🌱 I am learning the C++ language 
+- 👯 I want to collaborate with developers of my software environment in this way to acquire knowledge. 
+- 📫 How to contact me: adamnolasco21@gmail.com or adamnolasco21@hotmail.com
 
 - Utilities: How [Install Neovim](http://https://github.com/eid4m/install-neovim "Install Neovim")
 
