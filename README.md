@@ -1,6 +1,5 @@
 ### Hola 👋, My name is: Adam
 #### I am Desktop app and Web Developer
-![I am Desktop app and Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am 17 years old, I am currently studying Systems Engineering and Computer Science, I like the development of desktop and web applications, I like creation, innovation and modernism.
 
